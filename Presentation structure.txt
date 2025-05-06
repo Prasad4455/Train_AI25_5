@@ -1,3 +1,17 @@
+Topic 
+
+Intro of you 
+
+AI, ML , NLP explanation 
+Law of diffusion 
+Accelerated computing 
+Typing of AI 
+Prompt engineering 
+Algorithms 
+
+Benchmark 
+Transformer intro
+
 Now let's  zero the clock and begin an exciting ongoing topic of the World AI and agentic AI 
 
 
