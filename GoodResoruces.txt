@@ -1,0 +1,6 @@
+https://bbycroft.net/llm
+https://math.tali.link/rainbow-array-algebra/#transformers
+https://math.tali.link/rainbow-array-algebra/#neural-network
+https://github.com/bbycroft/llm-viz
+
+Focus on subject "how Large Language models work" and the key terms with the inner mechanisim how each component operates and generate content so that i can share it with other as trainer on these models, use natural laguange flow whereever possible andexplaint it in step wise with each item 
